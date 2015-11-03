@@ -1,4 +1,4 @@
-# Quick Capture 1.0
+# Quick Capture v1.0
 
 ### Introdunction
 
@@ -11,3 +11,18 @@ But as being in school for software development I decided to try and make it a l
 I'm still currently in school taking minimal classes at the time while working full time. So this is just version 1.0, I plan on updating it to be less resource intensive(avg 60-80mb) and fixing the graphics a bit. As I'm still learning those will be soon to come. Also will be changing the storage to a sqlite DB in the future instead of flat-file storage.
 
 ### Usage and Functionality
+
+* Set a custom HotKey Combination
+* Take screen shots of all or selected screens connected
+* Option to save mutiple screen shots as single or multiple files
+* Many more options and settings.
+* Profile manager for differnet settings.
+
+### Known Issues/Bugs
+
+* Settings animation can be a little glitchy
+* Bug in profile manager that resets profile settings
+
+### Comming in v1.1
+
+* Bug fixes
