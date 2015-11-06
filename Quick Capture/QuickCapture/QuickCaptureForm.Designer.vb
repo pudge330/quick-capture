@@ -294,6 +294,7 @@ Partial Class QuickCaptureForm
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.KeyPreview = True
         Me.Name = "QuickCaptureForm"
+        Me.TopMost = True
         Me.pPreviewBar.ResumeLayout(False)
         Me.pPreviewBar.PerformLayout()
         Me.pControlsToHide.ResumeLayout(False)

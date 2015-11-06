@@ -60,3 +60,14 @@ F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\Qu
 F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.exe
 F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.xml
 F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.pdb
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\bin\Debug\QuickCapture.exe
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\bin\Debug\QuickCapture.pdb
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\bin\Debug\QuickCapture.xml
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.vbprojResolveAssemblyReference.cache
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.FlatButton.resources
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.Profile_Manager.resources
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.QuickCaptureForm.resources
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.Resources.resources
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.ScreenSelection.resources
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.SettingsPanel.resources
+F:\Google Drive\Projects\VisualStudio\VisualBasic\quick-capture\Quick Capture\QuickCapture\obj\Debug\QuickCapture.vbproj.GenerateResource.Cache
