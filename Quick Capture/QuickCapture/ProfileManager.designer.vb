@@ -185,6 +185,7 @@ Partial Class Profile_Manager
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.KeyPreview = True
         Me.Name = "Profile_Manager"
+        Me.TopMost = True
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
