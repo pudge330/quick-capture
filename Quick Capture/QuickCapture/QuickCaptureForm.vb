@@ -42,8 +42,6 @@ Public Class QuickCaptureForm
 
         pPreview.BackgroundImage = New Bitmap(pPreview.Width, pPreview.Height)
 
-
-
         CaptureScreenShot()
         Dim s As String = ""
         'MsgBox(appSttg.Profiles(0) & vbNewLine & appSttg.CurrentProfile.SaveLocation)
@@ -231,6 +229,9 @@ Public Class QuickCaptureForm
         End If
         ssCamera.Dispose()
         ssCamera = Nothing
+        If Me.WindowState = FormWindowState.Minimized Then
+            Me.WindowState = FormWindowState.Normal
+        End If
     End Sub
 
     Private Sub SaveScreenShot()
