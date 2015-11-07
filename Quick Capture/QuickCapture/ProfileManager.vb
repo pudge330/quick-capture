@@ -146,8 +146,10 @@
         ElseIf lbProfiles.Items.Contains(tbExistingName.Text.Trim()) And lbProfiles.Items.IndexOf(tbExistingName.Text.Trim()) <> index Then
             MessageBox.Show("Another profile already has that name.", "Quick Capture - Profile Manager", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
         Else
-            My.Computer.FileSystem.RenameFile(Settings.FileDirectory & FileIO.Profile.FileNamePartA & profiles(index) & FileIO.Profile.FileNamePartB,
+            If Not profiles(index) = tbExistingName.Text.Trim() Then
+                My.Computer.FileSystem.RenameFile(Settings.FileDirectory & FileIO.Profile.FileNamePartA & profiles(index) & FileIO.Profile.FileNamePartB,
                                               FileIO.Profile.FileNamePartA & tbExistingName.Text.Trim() & FileIO.Profile.FileNamePartB)
+            End If
             'MsgBox(Settings.FileDirectory & FileIO.Profile.FileNamePartA & tbExistingName.Text.Trim() & FileIO.Profile.FileNamePartB)
             profiles(index) = tbExistingName.Text.Trim()
             lbProfiles.Items.Clear()
