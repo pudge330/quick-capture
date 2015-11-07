@@ -1,4 +1,4 @@
-# Quick Capture v1.0
+# Quick Capture v1.1
 
 ### Introdunction
 
