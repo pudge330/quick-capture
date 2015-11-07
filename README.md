@@ -21,8 +21,4 @@ I'm still currently in school taking minimal classes at the time while working f
 ### Known Issues/Bugs
 
 * Settings animation can be a little glitchy
-* Bug in profile manager that resets profile settings
-
-### Comming in v1.1
-
-* Bug fixes
+* Bug in profile manager that resets profile settings (fixed)
