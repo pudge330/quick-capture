@@ -407,6 +407,7 @@ Public Class QuickCaptureForm
     Private Sub btnSettings_LeftClick(sender As Object, e As MouseEventArgs) Handles btnSettings.LeftClick
         'MsgBox(appSttg.CurrentProfile.SaveLocation)
         If sttgPanel Is Nothing Then
+            Me.TopMost = False
             'MsgBox("1")
             sttgPanel = New SettingsPanel(appSttg)
             Me.Controls.Add(sttgPanel)
@@ -427,6 +428,7 @@ Public Class QuickCaptureForm
                 'End If
             End If
         Else
+            Me.TopMost = True
             sttgPanel.ToggleAnimation()
             If tempShowPreview Then
                 tempShowPreview = False
